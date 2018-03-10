@@ -1,0 +1,74 @@
+.center{
+    width:100%;
+    text-align:center;
+}
+.container-fluid{
+    width:100%;
+    background-color:black;
+    
+}
+
+.scheduale{
+    max-width:1500px;
+    margin:0 auto;
+   
+    display:inline-block;
+    color:white;
+  
+}
+.legend{
+display:inline-block;
+top:0;
+color:white;
+}
+tr{
+    
+    border: 1px solid #ddd;
+}
+th{
+    
+    border-width:2px;
+    width:214px;
+    height:38px;
+    border: 4px solid #ddd;
+}
+td{
+    border: 4px solid #ddd;
+    height:38px;
+}
+.sleep{
+background-color:orange;
+}
+.work{
+background-color:red;
+}
+.adnan{
+background-color:green;
+}
+.quranhalaka{
+    background-color:gray;
+}
+.ANA{
+    background-color:blue;
+}
+html{
+    background-color:black;
+}
+.abbas{
+    background-color:brown;
+}
+.parents{
+    background-color:purple;
+}
+.exercise{
+    background-color:pink;
+}
+.prog{
+    background-color:darkcyan;
+}
+.noman{
+    background-color:indianred;
+}
+.zafer{
+    background-color:maroon;
+}
